@@ -50,11 +50,14 @@ div.questions{
 }
 
 div.questions a.btn{
-  border-radius: 5px;
-  background-color: #e9ecef;
-  padding: 10px;
-  text-align: center;
-}
+   border-radius: 5px;
+   color: #FFF;
+   background-color: #007bff;
+   border-color: #007bff;
+   text-decoration: none;
+   padding: 18px;
+   font-size: 20px;
+ }
 
 div.questions h1{
   font-size: 60px;
