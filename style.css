@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -29,6 +29,11 @@ nav a {
   text-decoration: none;
   color: #007bff;
   font-size: 18px;
+}
+
+nav a:hover{
+  text-decoration: underline;
+  color: #0056b3;
 }
 
 #header a{
@@ -62,4 +67,8 @@ footer{
   margin-top: 80px;
   padding-top: 20px;
   color: #CCC;
+}
+
+#header a:hover{
+  text-decoration: underline;
 }
