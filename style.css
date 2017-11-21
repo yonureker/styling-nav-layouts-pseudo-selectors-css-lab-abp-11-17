@@ -45,18 +45,18 @@ main{
   margin-top: 20px;
 }
 
-div.jumbotron {
+div.questions {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
 }
 
-.jumbotron h1{
+div.questions h1{
   font-size: 60px;
 }
 
-.jumbotron p {
+div.questions p {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
